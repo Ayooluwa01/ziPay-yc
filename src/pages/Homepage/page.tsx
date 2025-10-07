@@ -16,11 +16,11 @@ export default function Homepage() {
        {/* Right: Hero Image */}
         <div className="absolute z-30 right-0 hidden lg:block">
           <Image
-            src="/iphone 15 Pro.svg"
+            src="/iphone15.png"
             alt="iPhone"
             width={700}
             height={700}
-            priority
+       
             className="opacity-100 z-10  "
           />
         </div>

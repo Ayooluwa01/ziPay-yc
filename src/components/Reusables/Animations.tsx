@@ -511,7 +511,7 @@ const itemVariant = {
           transition={{ duration: 1, ease: "easeOut" }}
         >
           <Image
-            src="/Why Now IMG Grid img.png"
+            src="/why.png"
             alt="Why Now Illustration"
             width={800}
             height={800}

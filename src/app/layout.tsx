@@ -45,7 +45,7 @@ export const metadata = {
     title: "ziPay – Fast and Simple Global Payments",
     description:
       "Send and receive money across borders instantly with ziPay. One wallet, instant conversions, and fair rates for individuals and businesses.",
-    url: "/Macbook.png", 
+    url: "https://zipay-yc.vercel.app", 
     siteName: "ziPay",
     images: [
       {
@@ -64,7 +64,7 @@ export const metadata = {
     description:
       "Send and receive money worldwide with ziPay. Simple, fast, and affordable.",
     images: ["/Macbook.png"],
-    creator: "@ziPayOfficial", 
+    creator: "@ziPay", 
   },
   icons: {
     icon: "/Temp Logo.png",
