@@ -403,7 +403,7 @@ export const ProductAccess = () => {
           transition={{ duration: 0.8, ease: "easeOut" }}
         >
           <Image
-            src="/iphone 15 Pro.svg"
+            src="/iphone15.png"
             alt="iPhone"
             width={300}
             height={300}
