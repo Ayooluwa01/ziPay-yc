@@ -14,6 +14,7 @@ export default function Homepage() {
  <Herosection />             
 
        {/* Right: Hero Image */}
+     
         <div className="absolute z-30 right-0 hidden lg:block">
           <Image
             src="/iphone15.png"
