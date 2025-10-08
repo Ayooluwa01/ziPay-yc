@@ -615,15 +615,15 @@ export const Herosection = () => {
         {/* Left: Heading + Subtext + CTA */}
         <motion.div
           initial={{ opacity: 0, x: -50 }}
-          animate={{ opacity: 1, x: 0 }}
+          whileInView={{ opacity: 1, x: 0 }}
           transition={{ duration: 1, ease: "easeOut" }}
         >
              <Image
-                      src="/iphone 15 Pro.svg"
+                      src="/iphone15.png"
                       alt="iPhone"
                       width={900}
                       height={900}
-                      priority
+                      
                       className="opacity-100 z-10  lg:hidden visible"
                     />
           <motion.h1
