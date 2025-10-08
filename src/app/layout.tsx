@@ -49,7 +49,7 @@ export const metadata = {
     siteName: "ziPay",
     images: [
       {
-        url: "/iphone15.png", 
+        url: "/app.png", 
         width: 1200,
         height: 630,
         alt: "ziPay app preview",
